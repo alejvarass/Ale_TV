@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-23",
+  "items": [
+    {
+      "id": "fallback1",
+      "title": "Demo Live 1",
+      "youtubeUrl": "https://www.youtube.com/live/ArKbAx1K-2U"
+    }
+  ]
+}
